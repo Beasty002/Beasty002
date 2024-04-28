@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Chhetri</h1>
 <h3 align="center">A passionate UI/UX Designer and frontend developer from Nepal</h3>
-<img align="right" alt="beasty002" width="400" src="https://i.pinimg.com/originals/68/a5/80/68a5805ee62de226ae2fa7dd16b52353.gif">
-
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beasty002&label=Profile%20views&color=0e75b6&style=flat" alt="beasty002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beasty002" alt="beasty002" /></a> </p>
