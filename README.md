@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aswin Chhetri</h1>
 <h3 align="center">A passionate UI/UX Designer and frontend developer from Nepal</h3>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<div style="display: flex; justify-content: center;"><img align="center"
+            src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
+            width="600">
+    </div>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beasty002&label=Profile%20views&color=0e75b6&style=flat" alt="beasty002" /> </p>
 
@@ -8,7 +11,7 @@
 
 - 🔭 I’m currently working on [Digital Kirana](https://github.com/Beasty002/DigitalKirana)
 
-- 🌱 I’m currently learning **UI/UX JavaScript**
+- 🌱 I’m currently learning ** CSS **
 
 - 👨‍💻 All of my projects are available at [https://github.com/Beasty002?tab=repositories](https://github.com/Beasty002?tab=repositories)
 
