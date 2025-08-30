@@ -6,7 +6,7 @@
     </div>
 <br><br>
 # 💫 About Me:
-🔭 I’m currently working on Digital Kirana<br><br>🌱 I’m currently learning  React<br><br>👨‍💻 All of my projects are available at https://github.com/Beasty002?tab=repositories<br><br>💬 Ask me about Figma,HTML,CSS,UI Prototyping<br><br>📫 How to reach me https://www.linkedin.com/in/aswin-chhetri-43b5b4277/<br><br>⚡ Fun fact I like drawing and photography
+🔭 I’m currently working at Asarfi <br><br>🌱 I’m currently learning Networking<br><br>👨‍💻 All of my projects are available at https://github.com/Beasty002?tab=repositories<br><br>💬 Ask me about Figma,HTML,CSS,React,TypescriptUI Prototyping<br><br>📫 How to reach me https://www.linkedin.com/in/aswin-chhetri-43b5b4277/<br><br>⚡ Fun fact I like drawing and photography
 
 
 ## 🌐 Socials:
