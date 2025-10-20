@@ -1,25 +1,70 @@
-<h1 align="center">Hi 👋, I'm Aswin Chhetri</h1>
-<h3 align="center">A passionate UI/UX Designer and frontend developer from Nepal</h3>
-<div style="display: flex; justify-content: center;"><img align="center"
-            src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-            width="600">
-    </div>
-<br><br>
-# 💫 About Me:
-🔭 I’m currently working at Asarfi <br><br>🌱 I’m currently learning Networking<br><br>👨‍💻 All of my projects are available at https://github.com/Beasty002?tab=repositories<br><br>💬 Ask me about Figma,HTML,CSS,React,TypescriptUI Prototyping<br><br>📫 How to reach me https://www.linkedin.com/in/aswin-chhetri-43b5b4277/<br><br>⚡ Fun fact I like drawing and photography
+<!-- ✨ Modern GitHub Profile | Aswin Chhetri -->
 
+<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Aswin Chhetri</span></h1>
+<h3 align="center">💻 Frontend De</h3>
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/asbinchhetri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aswin.6902) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aswin-chhetri) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Beasty002&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Beasty002&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Beasty002&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  🔭 Currently working at <b>Asarfi Tech</b> <br/>
+  🌱 Learning <b>Spring Boot</b> and backend architecture <br/>
+  🎨 I love <b>photography</b> & <b>digital drawing</b>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Beasty002&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://instagram.com/asbin.02" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/aswin-chhetri+" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:aswinchhetri02@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,redux,figma,canva,postgres,mysql,spring,git,github" alt="tech stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+</p>
+
+---
+
+## ⚡ GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Beasty002&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Beasty002&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beasty002&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 Top Contributed Repos
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Beasty002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Beasty002&label=Profile%20Views&icon=6&color=3" />
+</p>
+
+<!-- 🔥 Created by Aswin Chhetri | Profile powered with skill icons & stats cards -->
