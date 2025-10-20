@@ -3,9 +3,6 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Aswin Chhetri</span></h1>
 <h3 align="center">💻 Frontend Dev<!-- ✨ Modern GitHub Profile | Aswin Chhetri -->
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00b4d8;">Aswin Chhetri</span></h1>
-<h3 align="center">💻 Full Stack Developer | React ⚛️ | Spring Boot ☕</h3>
-
 <p align="center">
   🔭 Currently working at <b>Asarfi Tech</b> <br/>
   🌱 Learning <b>Spring Boot</b> and backend architecture <br/>
